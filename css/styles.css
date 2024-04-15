@@ -1,0 +1,46 @@
+body, p, h1, h2 {
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+}
+
+#navbar {
+    background-color: #BBBBBB;
+    color: black;
+    padding: 0 40px;
+    height: 60px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+#navbar h1, #navbar ul, #navegação li {
+    display: inline-block;
+    margin-left: 150px;
+    line-height: 20px;
+    color: black;
+}
+
+#navbar h1 {
+    margin: 0 auto;
+    line-height: 20px;
+    margin-left: 70px;
+}
+
+#navbar img {
+    height: 70px;
+    position: absolute;
+    top: -5px;
+}
+
+#navbar nav{
+    float: right;
+}
+
+a{
+    color: black;
+}
+
+#navegação li{
+    padding: -20px;
+}
