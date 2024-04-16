@@ -1,36 +1,29 @@
-body, p, h1, h2 {
+/* começo Home*/
+
+body{
     margin: 0;
     font-family: "Montserrat", sans-serif;
 }
 
 #navbar {
     background-color: #BBBBBB;
-    color: black;
-    padding: 0 40px;
-    height: 60px;
+    padding: 0 90px;
+    height: 222px;
 }
 
-h1{
-    font-size: 30px;
-}
-
-#navbar h1, #navbar ul, #navegação li {
+#navbar ul, #navegação li {
     display: inline-block;
-    margin-left: 150px;
-    line-height: 20px;
+    margin-right: -200px;
+    margin-left: 210px;
+    line-height: 170px;
     color: black;
-}
-
-#navbar h1 {
-    margin: 0 auto;
-    line-height: 20px;
-    margin-left: 70px;
 }
 
 #navbar img {
-    height: 70px;
+    height: auto;
     position: absolute;
-    top: -5px;
+    top: 15px;
+    width: 127px;
 }
 
 #navbar nav{
@@ -40,7 +33,4 @@ h1{
 a{
     color: black;
 }
-
-#navegação li{
-    padding: -20px;
-}
+/*home fim*/
