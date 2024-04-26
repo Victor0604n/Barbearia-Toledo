@@ -38,6 +38,10 @@ a{
     color: rgba(0, 0, 0, 0.823);
     text-decoration: none;
 }
+
+.banner{
+    height: ;
+}
 /*home fim*/
 
 /*Produto inicio*/
@@ -50,9 +54,9 @@ a{
 #navbar-produto ul, #navegação-Produto li {
     display: inline-block;
     margin-right: 0px;
-    margin-left: -310px;
+    margin-left: -145px;
     line-height: 170px;
-    padding: 0 250px 0 90px;
+    padding: 0 140px 0 20px;
     color: rgba(0, 0, 0, 0.823);
 }
 
