@@ -12,7 +12,7 @@ body{
 #navbar {
     background-color: #BBBBBB;
     padding: 0 90px;
-    height: 222px;
+    height: 250px;
 }
 
 #navbar ul, #navegação li {
@@ -22,15 +22,17 @@ body{
     display: inline-block;
     margin-right: 0px;
     margin-left: -145px;
-    line-height: 170px;
-    padding: 0 140px 0 20px;
+    line-height: 210px;
+    padding: 0 150px 0 20px;
     color: rgba(0, 0, 0, 0.822g);
+    font-weight: 600;
+    font-size: 16px;
 }
 
 #navbar img {
     position: absolute;
-    padding: 0 0px 0 100px;
-    top: 15px;
+    padding: 0 0px 0 275px;
+    top: 30px;
     width: 127px;
 }
 
@@ -58,7 +60,7 @@ a{
 
 #utensilios{
     position: absolute;
-    padding: 0 0px 0 235px;
+    padding: 0 0px 0 280px;
     top: 120px;
     width: 100px;
 }
@@ -72,16 +74,17 @@ h1{
 }
 
 .box p {
+    text-align: center;
     height: auto;
-    width: 820px;
+    width: 670px;
     display: inline-block;
+    margin-left: 375px;
     line-height: 20px;
-    margin-left: 350px;
-    margin-bottom: -150px;
+    margin-bottom: -140px;
 }
 
 .box p:last-child {
-    margin-left: 230px;
+    margin-left: 290px;
 }
 /*home fim*/
 
@@ -89,7 +92,7 @@ h1{
 #navbar-Produto {
     background-color: #BBBBBB;
     padding: 0 90px;
-    height: 222px;
+    height: 250px;
 }
 
 #navbar-produto ul, #navegação-Produto li {
